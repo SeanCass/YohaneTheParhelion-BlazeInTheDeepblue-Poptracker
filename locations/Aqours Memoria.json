@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Aqours Memoria",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "BossToken:8,Riko,Kanan,GlovesofMight"
+        ],
+        "children": [
+            {
+                "name": "Sunken Temple Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 274,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Shipwreck Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 327,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Ruins Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 362,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Sunken Volcano Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 414,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Grotto Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 474,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Coral Hill Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 516,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Sea of Trees Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 558,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Crystalline Grotto Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 600,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Infernal Altar Boss (Refight)",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Aqours Memoria",
+                        "x": 635,
+                        "y": 124,
+                        "size": 8
+                    }
+                ]
+            },
+        ]
+    }
+]

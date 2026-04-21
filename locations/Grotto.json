@@ -1,0 +1,263 @@
+[
+    {
+        "name": "Grotto",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Next To First Save Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 95,
+                        "y": 139,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "First Waterfall Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 137,
+                        "y": 164,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "First Lake Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["SeaDeity'sCharm"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 264,
+                        "y": 189,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Second Lake Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 402,
+                        "y": 207,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Spellbook Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Riko"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 179,
+                        "y": 264,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Long Waterfall Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["SeaDeity'sCharm"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 244,
+                        "y": 293,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Isolated Climb Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["SeaDeity'sCharm,FallenAngel'sSoarshoes","SeaDeity'sCharm,GlovesofMight"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 509,
+                        "y": 47,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Small Cave Climb Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["SeaDeity'sCharm,FallenAngel'sSoarshoes","SeaDeity'sCharm,GlovesofMight"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 635,
+                        "y": 79,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Grotto Boss",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": ["SeaDeity'sCharm"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 652,
+                        "y": 160,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Rescued Ally",
+                "chest_unopened_img": "/images/items/DiaToken.png",
+                "chest_opened_img": "/images/items/DiaTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Dia",
+                        "access_rules": ["SeaDeity'sCharm"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grotto",
+                        "x": 698,
+                        "y": 160,
+                        "size": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

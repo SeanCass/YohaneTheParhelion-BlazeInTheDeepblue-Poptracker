@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Crystalline Grotto",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "@Coral Hill"
+        ],
+        "children": [
+            {
+                "name": "One Way Slide Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 223,
+                        "y": 193,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Giant Sliding Crystals Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 295,
+                        "y": 122,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Isolated Chest Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 544,
+                        "y": 172,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Looong Slide Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Ruby,You"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 473,
+                        "y": 210,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Mari Issue Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Mari"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 361,
+                        "y": 221,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Crystalline Grotto Boss",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": ["Mari"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 299,
+                        "y": 250,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Rescued Ally",
+                "chest_unopened_img": "/images/items/MariToken.png",
+                "chest_opened_img": "/images/items/MariTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Mari",
+                        "access_rules": ["Mari"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Crystalline Grotto",
+                        "x": 263,
+                        "y": 250,
+                        "size": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

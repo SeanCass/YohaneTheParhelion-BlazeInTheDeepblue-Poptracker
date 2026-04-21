@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Sunken Volcano",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Next To First Save Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Kanan,GlovesofMight"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 447,
+                        "y": 241,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Hotspring Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Kanan"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 586,
+                        "y": 369,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Soarshoes Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Kanan","You,FallenAngel'sSoarshoes","FallenAngel'sSoarshoes,GlovesofMight"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 100,
+                        "y": 72,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Soarshoes Obligatory Issue Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Kanan,FallenAngel'sSoarshoes"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 670,
+                        "y": 269,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Tonosamas Parts Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Kanan,Riko,Dia","Kanan,Riko,Hanamaru,Laptop","Kanan,Riko,Mari,LostMonstie"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 145,
+                        "y": 261,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Sunken Volcano Boss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": ["Kanan,You","Kanan,FallenAngel'sSoarshoes"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 715,
+                        "y": 328,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Rescued Ally",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Riko",
+                        "access_rules": ["Kanan,You","Kanan,FallenAngel'sSoarshoes"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Volcano",
+                        "x": 768,
+                        "y": 340,
+                        "size": 8
+                    }
+                ]
+            },
+        ]
+    }
+]

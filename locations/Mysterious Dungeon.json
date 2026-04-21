@@ -1,0 +1,488 @@
+[
+    {
+        "name": "Mysterious Dungeon",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Aqours Memoria",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sunken Temple Boss (Refight)",
+                        "ref": "Aqours Memoria/Sunken Temple Boss (Refight)/Boss"
+                    },
+                    {
+                        "name": "Shipwreck Boss (Refight)",
+                        "ref": "Aqours Memoria/Shipwreck Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Ruins Boss (Refight)",
+                        "ref": "Aqours Memoria/Ruins Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Sunken Volcano Boss (Refight)",
+                        "ref": "Aqours Memoria/Sunken Volcano Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Grotto Boss (Refight)",
+                        "ref": "Aqours Memoria/Grotto Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Coral Hill Boss (Refight)",
+                        "ref": "Aqours Memoria/Coral Hill Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Sea of Trees Boss (Refight)",
+                        "ref": "Aqours Memoria/Sea of Trees Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Crystalline Grotto Boss (Refight)",
+                        "ref": "Aqours Memoria/Crystalline Grotto Boss (Refight)/Boss"
+                    },
+					{
+                        "name": "Infernal Altar Boss (Refight)",
+                        "ref": "Aqours Memoria/Infernal Altar Boss (Refight)/Boss"
+                    },
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 1835,
+                        "y": 293,
+                        "size": 50
+                    }
+                ]
+            },
+			{
+                "name": "Coral Hill",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Soarshoesnt Chest Room - Chest",
+                        "ref": "Coral Hill/Soarshoesnt Chest Room/Chest"
+                    },
+                    {
+                        "name": "Annoying Teleporting Fish Room - Chest",
+                        "ref": "Coral Hill/Annoying Teleporting Fish Room/Chest"
+                    },
+                    {
+                        "name": "Wallcrab Chest Room - Chest",
+                        "ref": "Coral Hill/Wallcrab Chest Room/Chest"
+                    },
+                    {
+                        "name": "Dumb Block Room - Chest",
+                        "ref": "Coral Hill/Dumb Block Room/Chest"
+                    },
+                    {
+                        "name": "Lost Monstie Room - Chest",
+                        "ref": "Coral Hill/Lost Monstie Room/Chest"
+                    },
+					{
+                        "name": "Coral Hill Boss",
+                        "ref": "Coral Hill/Coral Hill Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Coral Hill/Rescued Ally/Ruby"
+                    }
+					
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 1527,
+                        "y": 588,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Crystalline Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "One Way Slide Room - Chest",
+                        "ref": "Crystalline Grotto/One Way Slide Room/Chest"
+                    },
+                    {
+                        "name": "Giant Sliding Crystals Room - Chest",
+                        "ref": "Crystalline Grotto/Giant Sliding Crystals Room/Chest"
+                    },
+                    {
+                        "name": "Isolated Chest Room - Chest",
+                        "ref": "Crystalline Grotto/Isolated Chest Room/Chest"
+                    },
+                    {
+                        "name": "Looong Slide Room - Chest",
+                        "ref": "Crystalline Grotto/Looong Slide Room/Chest"
+                    },
+                    {
+                        "name": "Mari Issue Room - Chest",
+                        "ref": "Crystalline Grotto/Mari Issue Room/Chest"
+                    },
+					{
+                        "name": "Crystalline Grotto Boss",
+                        "ref": "Crystalline Grotto/Crystalline Grotto Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Crystalline Grotto/Rescued Ally/Mari"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 2229,
+                        "y": 579,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Grotto",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Next To First Save Room - Chest",
+                        "ref": "Grotto/Next To First Save Room/Chest"
+                    },
+                    {
+                        "name": "First Waterfall Room - Chest",
+                        "ref": "Grotto/First Waterfall Room/Chest"
+                    },
+                    {
+                        "name": "First Lake Room - Chest",
+                        "ref": "Grotto/First Lake Room/Chest"
+                    },
+                    {
+                        "name": "Second Lake Room - Chest",
+                        "ref": "Grotto/Second Lake Room/Chest"
+                    },
+                    {
+                        "name": "Spellbook Room - Chest",
+                        "ref": "Grotto/Spellbook Room/Chest"
+                    },
+                    {
+                        "name": "Long Waterfall Room - Chest",
+                        "ref": "Grotto/Long Waterfall Room/Chest"
+                    },
+                    {
+                        "name": "Isolated Climb Room - Chest",
+                        "ref": "Grotto/Isolated Climb Room/Chest"
+                    },
+                    {
+                        "name": "Small Cave Climb Room - Chest",
+                        "ref": "Grotto/Small Cave Climb Room/Chest"
+                    },
+					{
+                        "name": "Grotto Boss",
+                        "ref": "Grotto/Grotto Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Grotto/Rescued Ally/Dia"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 988,
+                        "y": 946,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Infernal Altar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Purple Goo Room - Chest",
+                        "ref": "Infernal Altar/Purple Goo Room/Chest"
+                    },
+                    {
+                        "name": "Dark Room - Chest",
+                        "ref": "Infernal Altar/Dark Room/Chest"
+                    },
+					{
+                        "name": "Infernal Altar Boss",
+                        "ref": "Infernal Altar/Infernal Altar Boss/Boss"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 950,
+                        "y": 208,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Ruins",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Sandy Trap Room - Chest",
+                        "ref": "Ruins/Sandy Trap Room/Chest"
+                    },
+                    {
+                        "name": "Vertical Poison Room - Chest",
+                        "ref": "Ruins/Vertical Poison Room/Chest"
+                    },
+                    {
+                        "name": "Rolling Rocks Room - Chest",
+                        "ref": "Ruins/Rolling Rocks Room/Chest"
+                    },
+                    {
+                        "name": "Laptop Room - Chest",
+                        "ref": "Ruins/Laptop Room/Chest"
+                    },
+                    {
+                        "name": "Ruins Boss",
+                        "ref": "Ruins/Ruins Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Ruins/Rescued Ally/Kanan"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 411,
+                        "y": 1194,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Sea of Trees",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Giant Poison Enemy Crab Room - Chest",
+                        "ref": "Sea of Trees/Giant Poison Enemy Crab Room/Chest"
+                    },
+                    {
+                        "name": "Scarlet Delta Suit Room - Chest",
+                        "ref": "Sea of Trees/Scarlet Delta Suit Room/Chest"
+                    },
+                    {
+                        "name": "Golden Snail Room - Chest",
+                        "ref": "Sea of Trees/Golden Snail Room/Chest"
+                    },
+                    {
+                        "name": "Slope Room - Chest",
+                        "ref": "Sea of Trees/Slope Room/Chest"
+                    },
+                    {
+                        "name": "You Testing Grounds - Chest",
+                        "ref": "Sea of Trees/You Testing Grounds/Chest"
+                    },
+					{
+                        "name": "Sea of Trees Boss",
+                        "ref": "Sea of Trees/Sea of Trees Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Sea of Trees/Rescued Ally/You"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 2594,
+                        "y": 918,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Shipwreck",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Really Sealed Off Chest Room - Chest",
+                        "ref": "Shipwreck/Really Sealed Off Chest Room/Chest"
+                    },
+                    {
+                        "name": "Spikey Ball Fish Room - Chest",
+                        "ref": "Shipwreck/Spikey Ball Fish Room/Chest"
+                    },
+                    {
+                        "name": "Final Guard Room - Chest",
+                        "ref": "Shipwreck/Final Guard Room/Chest"
+                    },
+                    {
+                        "name": "Gloves of Might Room - Chest",
+                        "ref": "Shipwreck/Gloves of Might Room/Chest"
+                    },
+                    {
+                        "name": "Postal Guild Bag Room - Chest",
+                        "ref": "Shipwreck/Postal Guild Bag Room/Chest"
+                    },
+					{
+                        "name": "Shipwreck Boss",
+                        "ref": "Shipwreck/Shipwreck Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Shipwreck/Rescued Ally/Hanamaru"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 1776,
+                        "y": 944,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Temple",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Cast Tutorial Room - Left Chest",
+                        "ref": "Sunken Temple/Cast Tutorial Room/Left Chest"
+                    },
+                    {
+                        "name": "Cast Tutorial Room - Right Chest",
+                        "ref": "Sunken Temple/Cast Tutorial Room/Right Chest"
+                    },
+                    {
+                        "name": "Fishy Archery Room - Chest",
+                        "ref": "Sunken Temple/Fishy Archery Room/Chest"
+                    },
+                    {
+                        "name": "Pathway to Infernal Altar - Chest",
+                        "ref": "Sunken Temple/Pathway to Infernal Altar/Chest"
+                    },
+                    {
+                        "name": "Katys Mask Room - Chest",
+                        "ref": "Sunken Temple/Katys Mask Room/Chest"
+                    },
+                    {
+                        "name": "Chika Testing Grounds - Chest",
+                        "ref": "Sunken Temple/Chika Testing Grounds/Chest"
+                    },
+					{
+                        "name": "Sunken Temple Boss",
+                        "ref": "Sunken Temple/Sunken Temple Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Sunken Temple/Rescued Ally/Chika"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 373,
+                        "y": 715,
+                        "size": 50
+                    }
+                ]
+            },
+            {
+                "name": "Sunken Volcano",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Next To First Save Room - Chest",
+                        "ref": "Sunken Volcano/Next To First Save Room/Chest"
+                    },
+                    {
+                        "name": "Hotspring Room - Chest",
+                        "ref": "Sunken Volcano/Hotspring Room/Chest"
+                    },
+                    {
+                        "name": "Soarshoes Room - Chest",
+                        "ref": "Sunken Volcano/Soarshoes Room/Chest"
+                    },
+                    {
+                        "name": "Soarshoes Obligatory Issue Room - Chest",
+                        "ref": "Sunken Volcano/Soarshoes Obligatory Issue Room/Chest"
+                    },
+                    {
+                        "name": "Tonosamas Parts Room - Chest",
+                        "ref": "Sunken Volcano/Tonosamas Parts Room/Chest"
+                    },
+					{
+                        "name": "Sunken Volcano Boss",
+                        "ref": "Sunken Temple/Sunken Volcano Boss/Boss"
+                    },
+					{
+                        "name": "Rescued Ally",
+                        "ref": "Sunken Temple/Rescued Ally/Riko"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Mysterious Dungeon",
+                        "x": 417,
+                        "y": 1578,
+                        "size": 50
+                    }
+                ]
+            },
+        ]
+    }
+]

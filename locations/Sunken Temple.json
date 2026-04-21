@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Sunken Temple",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Cast Tutorial Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Left Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Right Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 170,
+                        "y": 86,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Fishy Archery Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["FallenAngel'sSoarshoes","GlovesofMight"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 228,
+                        "y": 86,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Pathway to Infernal Altar",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 251,
+                        "y": 283,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Katys Mask Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Chika,You","Chika,FallenAngel'sSoarshoes"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 125,
+                        "y": 299,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Chika Testing Grounds",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["You"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 468,
+                        "y": 306,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Sunken Temple Boss",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 309,
+                        "y": 310,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Rescued Ally",
+                "chest_unopened_img": "/images/items/ChikaToken.png",
+                "chest_opened_img": "/images/items/ChikaTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chika",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sunken Temple",
+                        "x": 362,
+                        "y": 310,
+                        "size": 8
+                    }
+                ]
+            }
+        ]
+    }
+]

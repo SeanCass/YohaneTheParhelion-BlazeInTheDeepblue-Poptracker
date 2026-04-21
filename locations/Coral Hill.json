@@ -1,0 +1,188 @@
+[
+    {
+        "name": "Coral Hill",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            "GlovesofMight,You","GlovesofMight,FallenAngel'sSoarshoes","GlovesofMight,Dia"
+        ],
+        "children": [
+            {
+                "name": "Soarshoesnt Chest Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 249,
+                        "y": 216,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Annoying Teleporting Fish Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 177,
+                        "y": 120,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Wallcrab Chest Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 416,
+                        "y": 22,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Dumb Block Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 388,
+                        "y": 128,
+                        "size": 8
+                    }
+                ]
+            },
+            {
+                "name": "Lost Monstie Room",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "access_rules": ["Mari,Ruby,CutePochette"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 306,
+                        "y": 312,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Coral Hill Boss",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Boss",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 662,
+                        "y": 150,
+                        "size": 8
+                    }
+                ]
+            },
+			{
+                "name": "Rescued Ally",
+                "chest_unopened_img": "/images/items/RubyToken.png",
+                "chest_opened_img": "/images/items/RubyTokent.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Ruby",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Coral Hill",
+                        "x": 704,
+                        "y": 150,
+                        "size": 8
+                    }
+                ]
+            },
+        ]
+    }
+]

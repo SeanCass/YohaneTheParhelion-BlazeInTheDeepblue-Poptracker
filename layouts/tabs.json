@@ -1,0 +1,210 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Mysterious Dungeon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mysterious Dungeon"
+                    ]
+                }
+            },
+			{
+                "title": "Aqours Memoria",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Aqours Memoria"
+                    ]
+                }
+            },
+			{
+                "title": "Coral Hill",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Coral Hill"
+                    ]
+                }
+            },
+			{
+                "title": "Crystalline Grotto",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crystalline Grotto"
+                    ]
+                }
+            },
+			{
+                "title": "Grotto",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Grotto"
+                    ]
+                }
+            },
+			{
+                "title": "Infernal Altar",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Infernal Altar"
+                    ]
+                }
+            },
+			{
+                "title": "Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ruins"
+                    ]
+                }
+            },
+			{
+                "title": "Sea of Trees",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sea of Trees"
+                    ]
+                }
+            },
+			{
+                "title": "Shipwreck",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shipwreck"
+                    ]
+                }
+            },
+			{
+                "title": "Sunken Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sunken Temple"
+                    ]
+                }
+            },
+			{
+                "title": "Sunken Volcano",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sunken Volcano"
+                    ]
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Mysterious Dungeon",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Mysterious Dungeon"
+                    ]
+                }
+            },
+			{
+                "title": "Aqours Memoria",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Aqours Memoria"
+                    ]
+                }
+            },
+			{
+                "title": "Coral Hill",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Coral Hill"
+                    ]
+                }
+            },
+			{
+                "title": "Crystalline Grotto",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crystalline Grotto"
+                    ]
+                }
+            },
+			{
+                "title": "Grotto",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Grotto"
+                    ]
+                }
+            },
+			{
+                "title": "Infernal Altar",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Infernal Altar"
+                    ]
+                }
+            },
+			{
+                "title": "Ruins",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Ruins"
+                    ]
+                }
+            },
+			{
+                "title": "Sea of Trees",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sea of Trees"
+                    ]
+                }
+            },
+			{
+                "title": "Shipwreck",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Shipwreck"
+                    ]
+                }
+            },
+			{
+                "title": "Sunken Temple",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sunken Temple"
+                    ]
+                }
+            },
+			{
+                "title": "Sunken Volcano",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sunken Volcano"
+                    ]
+                }
+			}
+        ]
+    }
+}

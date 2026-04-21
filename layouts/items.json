@@ -1,0 +1,116 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "Chika",
+                                "You",
+                                "Riko",
+                                "Hanamaru"
+                            ],
+                            [
+                                "Kanan",
+                                "Dia",
+                                "Mari",
+                                "Ruby"
+                            ],
+							[
+                                "Katy'sMask",
+                                "PostalGuildBag",
+                                "FlameSpellbook",
+                                "Laptop"
+                            ],
+							[
+                                "Tonosama'sParts",
+                                "ScarletDeltaSuit",
+                                "LostMonstie",
+                                "CutePochette"
+                            ],
+							[
+                                "BossToken",
+								"SeaDeity'sCharm",
+								"FallenAngel'sSoarshoes",
+								"GlovesofMight"
+                            ],
+							[
+							]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 50,
+                        "item_width": 50,
+                        "rows": [
+                            [
+                                "Chika",
+                                "You",
+                                "Riko",
+                                "Hanamaru"
+                            ],
+                            [
+                                "Kanan",
+                                "Dia",
+                                "Mari",
+                                "Ruby"
+                            ],
+							[
+                                "Katy'sMask",
+                                "PostalGuildBag",
+                                "FlameSpellbook",
+                                "Laptop"
+                            ],
+							[
+                                "Tonosama'sParts",
+                                "ScarletDeltaSuit",
+                                "LostMonstie",
+                                "CutePochette"
+                            ],
+							[
+                                "BossToken",
+								"SeaDeity'sCharm",
+								"FallenAngel'sSoarshoes",
+								"GlovesofMight"
+                            ],
+							[
+							]
+						]
+                    }
+                ]
+            }
+        ]
+    }
+}
