@@ -69,7 +69,12 @@
                 "sections": [
                     {
                         "name": "Chest",
-                        "access_rules": [],
+                        "access_rules": [
+                            "You,[Dia]",
+                            "Ruby,CutePochette,[You]",
+                            "Ruby,CutePochette,[FallenAngel'sSoarshoes]",
+                            "[Hanamaru],[Dia],[FallenAngel'sSoarshoes]"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -94,7 +99,10 @@
                 "sections": [
                     {
                         "name": "Chest",
-                        "access_rules": ["Ruby,You"],
+                        "access_rules": [
+                            "Ruby,You,[Dia]",
+                            "Ruby,CutePochette,You"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -119,7 +127,11 @@
                 "sections": [
                     {
                         "name": "Chest",
-                        "access_rules": ["Mari"],
+                        "access_rules": [
+                            "You,Mari",
+                            "Mari,[Hanamaru]",
+                            "Ruby,CutePochette,Mari"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -144,7 +156,11 @@
                 "sections": [
                     {
                         "name": "Boss",
-                        "access_rules": ["Mari"],
+                        "access_rules": [
+                            "You,[Dia]",
+                            "Ruby,CutePochette",
+                            "[Hanamaru],[Dia]"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -169,7 +185,11 @@
                 "sections": [
                     {
                         "name": "Mari",
-                        "access_rules": ["Mari"],
+                        "access_rules": [
+                            "You,[Dia]",
+                            "Ruby,CutePochette",
+                            "[Hanamaru],[Dia]"
+                        ],
                         "visibility_rules": [],
                         "item_count": 1
                     }

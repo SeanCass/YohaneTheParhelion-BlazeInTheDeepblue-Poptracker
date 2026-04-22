@@ -72,6 +72,7 @@
                         "access_rules": [
 							"Kanan",
 							"You,FallenAngel'sSoarshoes",
+                            "You,GlovesofMight",
 							"FallenAngel'sSoarshoes,GlovesofMight"
 						],
                         "visibility_rules": [],
@@ -124,9 +125,11 @@
                     {
                         "name": "Chest",
                         "access_rules": [
-							"Kanan,Riko,Dia",
-							"Kanan,Riko,Hanamaru,Laptop",
-							"Kanan,Riko,Mari,LostMonstie"
+							"Kanan,[Hanamaru],Riko,Dia",
+							"Kanan,[You],Riko,Dia",
+							"Kanan,[Hanamaru],Riko,Mari,LostMonstie",
+                            "Kanan,[You],Riko,Mari,LostMonstie",
+                            "Kanan,Riko,Hanamaru,Laptop"
 						],
                         "visibility_rules": [],
                         "item_count": 1
