@@ -86,11 +86,11 @@ function LocationHandler(location)
 end
 
 function ForceUpdate()
-    local update = Tracker:FindObjectForCode("update")
+    --[[local update = Tracker:FindObjectForCode("update")
     if update == nil then
         return
     end
-    update.Active = not update.Active
+    update.Active = not update.Active]]--
 end
 
 function onClearHandler(slot_data)
