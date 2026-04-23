@@ -75,7 +75,7 @@
                 "sections": [
                     {
                         "name": "Boss",
-                        "access_rules": ["Riko,Kanan,GlovesofMight,[Hanamaru]"],
+                        "access_rules": ["Riko,Kanan,FallenAngel'sSoarshoes,GlovesofMight,[Hanamaru]"],
                         "visibility_rules": [],
                         "item_count": 1
                     }
