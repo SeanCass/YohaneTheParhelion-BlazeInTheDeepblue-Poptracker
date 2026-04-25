@@ -1,6 +1,14 @@
 {
     "versions": [
 		{
+            "package_version": "0.1.2",
+            "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.1.2.zip",
+            "sha256": "e3e34658e8f927df632c600dc3b749d2f793118a3f199353eae7de5e0cc833d0",
+            "changelog": [
+                "Some logic fixes"
+            ]
+        },
+		{
             "package_version": "0.1.1",
             "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.1.1.zip",
             "sha256": "be77c4f5825cd172a8b31e293d1736976a9b69c56ab3ce8c5a22af7b7072691c",
