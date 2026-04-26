@@ -1,6 +1,14 @@
 {
     "versions": [
 		{
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.2.0.zip",
+            "sha256": "e3e34658e8f927df632c600dc3b749d2f793118a3f199353eae7de5e0cc833d0",
+            "changelog": [
+                "Added support for progressive character unlocks"
+            ]
+        },
+		{
             "package_version": "0.1.2",
             "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.1.2.zip",
             "sha256": "e3e34658e8f927df632c600dc3b749d2f793118a3f199353eae7de5e0cc833d0",
