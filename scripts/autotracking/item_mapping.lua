@@ -246,4 +246,12 @@ ITEM_MAPPING = {
 	[865] = {{"Goddess's Bracelet", "toggle"}},
 	[866] = {{"Sphene Earring", "toggle"}},
 	[2000] = {{"BossToken", "toggle"}},
+	[2101] = {{"Progressive Chika", "toggle"}},
+	[2102] = {{"Progressive Riko", "toggle"}},
+	[2103] = {{"Progressive Kanan", "toggle"}},
+	[2104] = {{"Progressive Dia", "toggle"}},
+	[2105] = {{"Progressive You", "toggle"}},
+	[2106] = {{"Progressive Mari", "toggle"}},
+	[2107] = {{"Progressive Hanamaru", "toggle"}},
+	[2108] = {{"Progressive Ruby", "toggle"}},
 }
