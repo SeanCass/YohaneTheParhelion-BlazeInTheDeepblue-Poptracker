@@ -3,7 +3,7 @@
 		{
             "package_version": "0.2.3",
             "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.2.0.zip",
-            "sha256": "785cf9f5a39eabd1717ad28ca59b18c0b8231266cac64c4ab9755fd3468638cf",
+            "sha256": "8ca2b983bce160e3103c5bbb6fbeb92ed6c6dfc00c25569cfff00cf2e9eb8787",
             "changelog": [
                 "Added several locations to Mysterious Dungeon tab, fixed Boss Token tracking"
             ]
