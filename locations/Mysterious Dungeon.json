@@ -273,6 +273,10 @@
                         "name": "Laptop Room - Chest",
                         "ref": "Ruins/Laptop Room/Chest"
                     },
+					{
+                        "name": "Hall of Shame - Chest",
+                        "ref": "Ruins/Hall of Shame/Chest"
+                    },
                     {
                         "name": "Ruins Boss",
                         "ref": "Ruins/Ruins Boss/Boss"
