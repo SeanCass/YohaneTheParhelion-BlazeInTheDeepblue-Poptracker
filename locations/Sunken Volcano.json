@@ -146,8 +146,8 @@
             },
 			{
                 "name": "Sunken Volcano Boss",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/BossToken.png",
+                "chest_opened_img": "/images/items/BossTokent.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "
@@ -174,8 +174,8 @@
             },
 			{
                 "name": "Rescued Ally",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
+                "chest_unopened_img": "/images/items/RikoToken.png",
+                "chest_opened_img": "/images/items/RikoTokent.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     " "

@@ -272,23 +272,23 @@ function onItem(index, item_id, item_name, player_number)
     for _, item_pair in pairs(item) do
         item_code = item_pair[1]
         item_type = item_pair[2]
-        addItem(item_code)
+        addItem(item_code, item_pair[3])
         local progressive = PROGRESSIVE_TO_CHARACTER_MAP[item_code]
         if progressive then
             local item_obj = Tracker:FindObjectForCode(item_code)
             if item_obj then
                 if item_obj.Active == true then
-                    addItem(progressive[1])
+                    addItem(progressive[1], nil)
                 end
                 if item_obj.CurrentStage >= 1 then
-                    addItem(progressive[2])
+                    addItem(progressive[2], nil)
                 end
             end
         end
     end
 end
 
-function addItem(item_code)
+function addItem(item_code, increment)
     local item_obj = Tracker:FindObjectForCode(item_code)
     if item_obj then
         if item_obj.Type == "toggle" then
@@ -303,7 +303,7 @@ function addItem(item_code)
             end
         elseif item_obj.Type == "consumable" then
             -- print("consumable")
-            item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)
+            item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(increment) or 1)
         elseif item_obj.Type == "progressive_toggle" then
             -- print("progressive_toggle")
             if item_obj.Active then

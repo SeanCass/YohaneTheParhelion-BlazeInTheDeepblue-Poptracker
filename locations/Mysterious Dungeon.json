@@ -278,8 +278,16 @@
                         "ref": "Ruins/Hall of Shame/Chest"
                     },
                     {
-                        "name": "Ruins Boss",
-                        "ref": "Ruins/Ruins Boss/Boss"
+                        "name": "Ruins Boss 1",
+                        "ref": "Ruins/Ruins Boss 1/Boss"
+                    },
+					{
+                        "name": "Ruins Boss 2",
+                        "ref": "Ruins/Ruins Boss 2/Boss"
+                    },
+					{
+                        "name": "Ruins Boss 3",
+                        "ref": "Ruins/Ruins Boss 3/Boss"
                     },
 					{
                         "name": "Rescued Ally",
@@ -466,16 +474,16 @@
                         "ref": "Sunken Volcano/Soarshoes Obligatory Issue Room/Chest"
                     },
                     {
-                        "name": "Tonosamas Parts Room - Chest",
+                        "name": "Tonosama's Parts Room - Chest",
                         "ref": "Sunken Volcano/Tonosamas Parts Room/Chest"
                     },
 					{
                         "name": "Sunken Volcano Boss",
-                        "ref": "Sunken Temple/Sunken Volcano Boss/Boss"
+                        "ref": "Sunken Volcano/Sunken Volcano Boss/Boss"
                     },
 					{
                         "name": "Rescued Ally",
-                        "ref": "Sunken Temple/Rescued Ally/Riko"
+                        "ref": "Sunken Volcano/Rescued Ally/Riko"
                     }
                 ],
                 "map_locations": [
