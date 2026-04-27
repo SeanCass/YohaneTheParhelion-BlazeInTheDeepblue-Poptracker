@@ -156,13 +156,11 @@
                     {
                         "name": "Chest",
                         "access_rules": [
-							"@Shipwreck/Grotto Entrance/Entrance,Kanan,Chika",
-                            "@Shipwreck/Grotto Entrance/Entrance,Kanan,You",
-                            "@Shipwreck/Grotto Entrance/Entrance,Chika,FallenAngel'sSoarshoes",
-                            "@Shipwreck/Grotto Entrance/Entrance,Chika,GlovesofMight",
-                            "@Shipwreck/Grotto Entrance/Entrance,You,FallenAngel'sSoarshoes",
-                            "@Shipwreck/Grotto Entrance/Entrance,You,GlovesofMight",
-							"@Shipwreck/Grotto Entrance/Entrance,You,Riko",
+							"@Shipwreck/Grotto Entrance/Entrance,Chika,Kanan",
+							"@Shipwreck/Grotto Entrance/Entrance,Chika,FallenAngel'sSoarshoes,GlovesofMight",
+                            "@Shipwreck/Grotto Entrance/Entrance,You,Riko,FallenAngel'sSoarshoes",
+                            "@Shipwreck/Grotto Entrance/Entrance,You,Riko,GlovesofMight",
+							"@Shipwreck/Grotto Entrance/Entrance,You,FallenAngel'sSoarshoes,GlovesofMight",
 							"@Shipwreck/Coral Hill Entrance/Entrance,Chika",
 							"@Shipwreck/Coral Hill Entrance/Entrance,You"
 						],
