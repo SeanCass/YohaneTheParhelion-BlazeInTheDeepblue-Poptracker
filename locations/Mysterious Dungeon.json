@@ -506,48 +506,64 @@
                 "sections": [
                     {
                         "name": "Chika's Upgrade Quest",
+						"chest_unopened_img": "/images/items/ChikaToken.png",
+						"chest_opened_img": "/images/items/ChikaTokent.png",
                         "access_rules": ["Katy'sMask"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Riko's Upgrade Quest",
+						"chest_unopened_img": "/images/items/RikoToken.png",
+						"chest_opened_img": "/images/items/RikoTokent.png",
                         "access_rules": ["FlameSpellbook"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Kanan's Upgrade Quest",
+						"chest_unopened_img": "/images/items/KananToken.png",
+						"chest_opened_img": "/images/items/KananTokent.png",
                         "access_rules": ["Tonosama'sParts"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Hanamaru's Upgrade Quest",
+						"chest_unopened_img": "/images/items/HanamaruToken.png",
+						"chest_opened_img": "/images/items/HanamaruTokent.png",
                         "access_rules": ["Laptop"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Ruby's Upgrade Quest",
+						"chest_unopened_img": "/images/items/RubyToken.png",
+						"chest_opened_img": "/images/items/RubyTokent.png",
                         "access_rules": ["CutePochette"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "You's Upgrade Quest",
+						"chest_unopened_img": "/images/items/YouToken.png",
+						"chest_opened_img": "/images/items/YouTokent.png",
                         "access_rules": ["PostalGuildBag"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Dia's Upgrade Quest",
+						"chest_unopened_img": "/images/items/DiaToken.png",
+						"chest_opened_img": "/images/items/DiaTokent.png",
                         "access_rules": ["ScarletDeltaSuit"],
                         "visibility_rules": [],
                         "item_count": 1
                     },
 					{
                         "name": "Mari's Upgrade Quest",
+						"chest_unopened_img": "/images/items/MariToken.png",
+						"chest_opened_img": "/images/items/MariTokent.png",
                         "access_rules": ["LostMonstie"],
                         "visibility_rules": [],
                         "item_count": 1
