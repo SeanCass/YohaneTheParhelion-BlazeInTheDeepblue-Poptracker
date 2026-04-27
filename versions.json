@@ -1,6 +1,14 @@
 {
     "versions": [
 		{
+            "package_version": "0.2.1",
+            "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.2.0.zip",
+            "sha256": "b3a4fbbc2698a9e56e3c219584242af1069de2130953034f3a0d83bbe0d2b76c",
+            "changelog": [
+                "Fixed Gloves of Might location in Shipwreck"
+            ]
+        },
+		{
             "package_version": "0.2.0",
             "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.2.0.zip",
             "sha256": "96bd78ff1b09b7cbd0bee85e43bf0ecd03987da8a80149fd31cb724913330bad",
