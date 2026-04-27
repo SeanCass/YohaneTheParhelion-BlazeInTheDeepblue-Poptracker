@@ -5,7 +5,7 @@
             "download_url": "https://github.com/SeanCass/YohaneTheParhelion-BlazeInTheDeepblue-Poptracker/archive/refs/tags/0.2.0.zip",
             "sha256": "785cf9f5a39eabd1717ad28ca59b18c0b8231266cac64c4ab9755fd3468638cf",
             "changelog": [
-                "Corrected Shipwreck map"
+                "Added several locations to Mysterious Dungeon tab, fixed Boss Token tracking"
             ]
         },
 		{
