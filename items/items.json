@@ -2174,5 +2174,13 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "enable_you_skips"
+    },
+    {
+        "name": "Craftsanity",
+        "type": "toggle",
+        "img": "images/settings/Craft.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "craftsanity"
     }
 ]

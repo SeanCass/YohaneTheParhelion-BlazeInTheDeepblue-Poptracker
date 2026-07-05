@@ -100,6 +100,15 @@
                         "Sunken Volcano"
                     ]
                 }
+            },
+            {
+                "title": "Crafting",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crafting"
+                    ]
+                }
             }
         ]
     },
@@ -204,7 +213,16 @@
                         "Sunken Volcano"
                     ]
                 }
-			}
+			},
+            {
+                "title": "Crafting",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Crafting"
+                    ]
+                }
+            }
         ]
     }
 }

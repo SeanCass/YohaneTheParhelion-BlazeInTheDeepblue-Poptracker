@@ -1,0 +1,2159 @@
+[
+    {
+        "name": "Crafting",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Crafting",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "children": [ 
+                    {
+                        "name": "Recipe 1",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "1",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 2",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "2",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 3",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "3",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 4",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "4",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 5",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "5",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 6",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "6",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 7",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "7",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 8",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "8",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 9",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "9",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 10",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "10",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 11,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 11",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "11",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 12",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "12",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 13",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "13",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 14",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "14",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 15",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "15",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 16",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "16",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 17",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "17",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 18",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "18",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 19",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "19",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 20",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "20",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 32,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 21",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "21",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 22",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "22",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 23",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "23",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 24",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "24",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 25",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "25",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 26",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "26",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 27",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "27",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 28",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "28",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 29",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "29",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 30",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "30",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 53,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 31",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "31",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 32",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "32",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 33",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "33",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 34",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "34",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 35",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "35",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 36",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "36",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 37",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "37",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 38",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "38",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 39",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "39",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 40",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "40",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 74,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 41",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "41",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 42",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "42",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 43",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "43",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 44",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "44",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 45",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "45",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 46",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "46",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 47",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "47",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 48",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "48",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 49",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "49",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 50",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "50",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 95,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 51",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "51",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 52",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "52",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 53",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "53",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 54",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "54",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 55",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "55",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 56",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "56",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 57",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "57",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 58",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "58",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 59",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "59",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 60",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "60",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 116,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 61",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "61",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 62",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "62",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 63",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "63",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 64",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "64",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 65",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "65",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 66",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "66",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 67",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "67",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 68",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "68",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 69",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "69",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 70",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "70",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 137,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 71",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "71",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 72",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "72",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 73",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "73",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 74",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "74",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 75",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "75",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 76",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "76",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 77",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "77",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 78",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "78",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 79",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "79",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 80",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "80",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 158,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 81",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "81",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 82",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "82",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 83",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "83",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 84",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "84",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 274,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 85",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "85",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 350,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 86",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "86",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 426,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 87",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "87",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 502,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 88",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "88",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 578,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 89",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "89",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 654,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 90",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "90",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 730,
+                                "y": 179,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 91",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "91",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 46,
+                                "y": 200,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 92",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "92",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 122,
+                                "y": 200,
+                                "size": 8
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Recipe 93",
+                        "chest_unopened_img": "/images/items/CraftG.png",
+                        "chest_opened_img": "/images/items/Craft.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "93",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Crafting",
+                                "x": 198,
+                                "y": 200,
+                                "size": 8
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

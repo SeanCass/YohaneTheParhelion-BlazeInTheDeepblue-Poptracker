@@ -10,4 +10,5 @@ TAB_MAPPING = {
 	[8] = {"Shipwreck"},
 	[9] = {"Infernal Altar"},
 	[10] = {"Aqours Memoria"},
+    [11] = {"Crafting"},
 }
