@@ -19,11 +19,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|1"
                         ],
                         "sections": [
                             {
-                                "name": "1",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -42,11 +42,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|2"
                         ],
                         "sections": [
                             {
-                                "name": "2",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -65,11 +65,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|3"
                         ],
                         "sections": [
                             {
-                                "name": "3",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -88,11 +88,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|4"
                         ],
                         "sections": [
                             {
-                                "name": "4",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -111,11 +111,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|5"
                         ],
                         "sections": [
                             {
-                                "name": "5",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -134,11 +134,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|6"
                         ],
                         "sections": [
                             {
-                                "name": "6",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -157,11 +157,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|7"
                         ],
                         "sections": [
                             {
-                                "name": "7",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -180,11 +180,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|8"
                         ],
                         "sections": [
                             {
-                                "name": "8",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -203,11 +203,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|9"
                         ],
                         "sections": [
                             {
-                                "name": "9",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -226,11 +226,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|10"
                         ],
                         "sections": [
                             {
-                                "name": "10",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -249,11 +249,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|11"
                         ],
                         "sections": [
                             {
-                                "name": "11",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -272,11 +272,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|12"
                         ],
                         "sections": [
                             {
-                                "name": "12",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -295,11 +295,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|13"
                         ],
                         "sections": [
                             {
-                                "name": "13",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -318,11 +318,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|14"
                         ],
                         "sections": [
                             {
-                                "name": "14",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -341,11 +341,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|15"
                         ],
                         "sections": [
                             {
-                                "name": "15",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -364,11 +364,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|16"
                         ],
                         "sections": [
                             {
-                                "name": "16",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -387,11 +387,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|17"
                         ],
                         "sections": [
                             {
-                                "name": "17",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -410,11 +410,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|18"
                         ],
                         "sections": [
                             {
-                                "name": "18",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -433,11 +433,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|19"
                         ],
                         "sections": [
                             {
-                                "name": "19",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -456,11 +456,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|20"
                         ],
                         "sections": [
                             {
-                                "name": "20",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -479,11 +479,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|21"
                         ],
                         "sections": [
                             {
-                                "name": "21",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -502,11 +502,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|22"
                         ],
                         "sections": [
                             {
-                                "name": "22",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -525,11 +525,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|23"
                         ],
                         "sections": [
                             {
-                                "name": "23",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -548,11 +548,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|24"
                         ],
                         "sections": [
                             {
-                                "name": "24",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -571,11 +571,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|25"
                         ],
                         "sections": [
                             {
-                                "name": "25",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -594,11 +594,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|26"
                         ],
                         "sections": [
                             {
-                                "name": "26",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -617,11 +617,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|27"
                         ],
                         "sections": [
                             {
-                                "name": "27",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -640,11 +640,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|28"
                         ],
                         "sections": [
                             {
-                                "name": "28",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -663,11 +663,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|29"
                         ],
                         "sections": [
                             {
-                                "name": "29",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -686,11 +686,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|30"
                         ],
                         "sections": [
                             {
-                                "name": "30",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -709,11 +709,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|31"
                         ],
                         "sections": [
                             {
-                                "name": "31",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -732,11 +732,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|32"
                         ],
                         "sections": [
                             {
-                                "name": "32",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -755,11 +755,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|33"
                         ],
                         "sections": [
                             {
-                                "name": "33",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -778,11 +778,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|34"
                         ],
                         "sections": [
                             {
-                                "name": "34",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -801,11 +801,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|35"
                         ],
                         "sections": [
                             {
-                                "name": "35",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -824,11 +824,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|36"
                         ],
                         "sections": [
                             {
-                                "name": "36",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -847,11 +847,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|37"
                         ],
                         "sections": [
                             {
-                                "name": "37",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -870,11 +870,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|38"
                         ],
                         "sections": [
                             {
-                                "name": "38",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -893,11 +893,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|39"
                         ],
                         "sections": [
                             {
-                                "name": "39",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -916,11 +916,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|40"
                         ],
                         "sections": [
                             {
-                                "name": "40",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -939,11 +939,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|41"
                         ],
                         "sections": [
                             {
-                                "name": "41",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -962,11 +962,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|42"
                         ],
                         "sections": [
                             {
-                                "name": "42",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -985,11 +985,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|43"
                         ],
                         "sections": [
                             {
-                                "name": "43",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1008,11 +1008,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|44"
                         ],
                         "sections": [
                             {
-                                "name": "44",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1031,11 +1031,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|45"
                         ],
                         "sections": [
                             {
-                                "name": "45",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1054,11 +1054,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|46"
                         ],
                         "sections": [
                             {
-                                "name": "46",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1077,11 +1077,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|47"
                         ],
                         "sections": [
                             {
-                                "name": "47",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1100,11 +1100,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|48"
                         ],
                         "sections": [
                             {
-                                "name": "48",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1123,11 +1123,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|49"
                         ],
                         "sections": [
                             {
-                                "name": "49",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1146,11 +1146,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|50"
                         ],
                         "sections": [
                             {
-                                "name": "50",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1169,11 +1169,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|51"
                         ],
                         "sections": [
                             {
-                                "name": "51",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1192,11 +1192,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|52"
                         ],
                         "sections": [
                             {
-                                "name": "52",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1215,11 +1215,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|53"
                         ],
                         "sections": [
                             {
-                                "name": "53",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1238,11 +1238,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|54"
                         ],
                         "sections": [
                             {
-                                "name": "54",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1261,11 +1261,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|55"
                         ],
                         "sections": [
                             {
-                                "name": "55",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1284,11 +1284,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|56"
                         ],
                         "sections": [
                             {
-                                "name": "56",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1307,11 +1307,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|57"
                         ],
                         "sections": [
                             {
-                                "name": "57",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1330,11 +1330,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|58"
                         ],
                         "sections": [
                             {
-                                "name": "58",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1353,11 +1353,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|59"
                         ],
                         "sections": [
                             {
-                                "name": "59",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1376,11 +1376,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|60"
                         ],
                         "sections": [
                             {
-                                "name": "60",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1399,11 +1399,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|61"
                         ],
                         "sections": [
                             {
-                                "name": "61",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1422,11 +1422,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|62"
                         ],
                         "sections": [
                             {
-                                "name": "62",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1445,11 +1445,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|63"
                         ],
                         "sections": [
                             {
-                                "name": "63",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1468,11 +1468,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|64"
                         ],
                         "sections": [
                             {
-                                "name": "64",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1491,11 +1491,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|65"
                         ],
                         "sections": [
                             {
-                                "name": "65",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1514,11 +1514,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|66"
                         ],
                         "sections": [
                             {
-                                "name": "66",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1537,11 +1537,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|67"
                         ],
                         "sections": [
                             {
-                                "name": "67",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1560,11 +1560,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|68"
                         ],
                         "sections": [
                             {
-                                "name": "68",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1583,11 +1583,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|69"
                         ],
                         "sections": [
                             {
-                                "name": "69",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1606,11 +1606,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|70"
                         ],
                         "sections": [
                             {
-                                "name": "70",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1629,11 +1629,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|71"
                         ],
                         "sections": [
                             {
-                                "name": "71",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1652,11 +1652,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|72"
                         ],
                         "sections": [
                             {
-                                "name": "72",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1675,11 +1675,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|73"
                         ],
                         "sections": [
                             {
-                                "name": "73",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1698,11 +1698,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|74"
                         ],
                         "sections": [
                             {
-                                "name": "74",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1721,11 +1721,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|75"
                         ],
                         "sections": [
                             {
-                                "name": "75",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1744,11 +1744,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|76"
                         ],
                         "sections": [
                             {
-                                "name": "76",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1767,11 +1767,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|77"
                         ],
                         "sections": [
                             {
-                                "name": "77",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1790,11 +1790,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|78"
                         ],
                         "sections": [
                             {
-                                "name": "78",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1813,11 +1813,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|79"
                         ],
                         "sections": [
                             {
-                                "name": "79",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1836,11 +1836,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|80"
                         ],
                         "sections": [
                             {
-                                "name": "80",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1859,11 +1859,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|81"
                         ],
                         "sections": [
                             {
-                                "name": "81",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1882,11 +1882,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|82"
                         ],
                         "sections": [
                             {
-                                "name": "82",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1905,11 +1905,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|83"
                         ],
                         "sections": [
                             {
-                                "name": "83",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1928,11 +1928,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|84"
                         ],
                         "sections": [
                             {
-                                "name": "84",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1951,11 +1951,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|85"
                         ],
                         "sections": [
                             {
-                                "name": "85",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1974,11 +1974,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|86"
                         ],
                         "sections": [
                             {
-                                "name": "86",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -1997,11 +1997,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|87"
                         ],
                         "sections": [
                             {
-                                "name": "87",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2020,11 +2020,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|88"
                         ],
                         "sections": [
                             {
-                                "name": "88",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2043,11 +2043,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|89"
                         ],
                         "sections": [
                             {
-                                "name": "89",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2066,11 +2066,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|90"
                         ],
                         "sections": [
                             {
-                                "name": "90",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2089,11 +2089,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|91"
                         ],
                         "sections": [
                             {
-                                "name": "91",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2112,11 +2112,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|92"
                         ],
                         "sections": [
                             {
-                                "name": "92",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],
@@ -2135,11 +2135,11 @@
                         "chest_opened_img": "/images/items/Craft.png",
                         "overlay_background": "#000000",
                         "access_rules": [
-                            " "
+                            "^$can_craft_recipe|93"
                         ],
                         "sections": [
                             {
-                                "name": "93",
+                                "name": "Item",
                                 "item_count": 1
                             }
                         ],

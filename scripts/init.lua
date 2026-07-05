@@ -56,6 +56,8 @@ function OnFrameHandler()
             end
             table.insert(recipes, recipe)
         end
+        local craftsanity = Tracker:FindObjectForCode("craftsanity")
+        craftsanity.Active = (SLOT_DATA['craftsanity'])
     end
     ScriptHost:RemoveOnFrameHandler("load handler")
     -- stuff

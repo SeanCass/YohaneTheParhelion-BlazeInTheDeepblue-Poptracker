@@ -12,5 +12,12 @@
         "img": "settings/Pot1.png",
         "disabled_img": "settings/Pot1x.png",
         "codes": "potsanity"
+    },
+    {
+        "name": "Craftsanity",
+        "type": "toggle",
+        "img": "settings/Craft.png",
+        "disabled_img": "settings/CraftG.png",
+        "codes": "craftsanity"
     }
 ]
